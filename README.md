@@ -1,6 +1,6 @@
 # Drawing the Indian flag using turtle graphics
 Turtle graphics is a popular way for introducing programming to kids. 
-## Links or guides used to develop the Indian Flag
+## Developed the 'Indian Flag' using these links or guides 
 - Color below to see its turtle name, CSS name, hex code, or RGB values [Trinket Colors](https://trinket.io/docs/colors)
 - Trutle coding in Python guide [Turtle Guide](https://www.geeksforgeeks.org/turtle-programming-python/)
 - Background color in Python [Trutle Guide BG](https://www.geeksforgeeks.org/turtle-screen-bgcolor-function-in-python/)
